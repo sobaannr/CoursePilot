@@ -1,0 +1,32 @@
+# Local runtimes, caches and editor state
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+pytest-cache-files-*/
+.coverage
+htmlcov/
+.vscode/
+.idea/
+tmp/
+*.log
+.DS_Store
+Thumbs.db
+# Credentials and private study responses
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+*.pem
+*.key
+data/human/private/
+# Downloaded source documents and generated personal/submission artifacts
+data/sources/
+docs/source_requirements/
+output/*
+!output/evaluation/
+output/evaluation/*
+!output/evaluation/RESULTS.md
+!output/evaluation/metrics.json
+!output/evaluation/per_profile.csv

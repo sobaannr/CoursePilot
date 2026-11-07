@@ -1,0 +1,7 @@
+.venv
+.git
+tmp
+data/sources
+data/human/private
+output/submission
+__pycache__

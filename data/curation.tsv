@@ -1,0 +1,70 @@
+code	category	tags	description
+CS1002	core	programming	Programming foundations covering variables, decisions, loops, functions, arrays and solving computational problems.
+CS1004	core	programming;software engineering	Object oriented programming with classes, objects, inheritance, polymorphism and reusable software abstractions.
+CS1005	core	algorithms;mathematics	Discrete mathematics for computing: logic, sets, relations, counting, graphs and mathematical reasoning.
+CS2001	core	algorithms;programming	Data structures including linked lists, stacks, queues, trees and graphs, with complexity analysis and implementation.
+CS2005	core	databases;data engineering	Relational database design, SQL queries, normalization, transactions and management of structured information.
+CS2006	core	systems;cloud computing	Operating systems with processes, threads, synchronization, memory management, scheduling and file systems.
+CS2009	core	algorithms;mathematics	Algorithm design and analysis using asymptotic complexity, divide and conquer, greedy methods and dynamic programming.
+CS3001	core	networks;systems	Computer networking with layered architectures, protocols, routing, transport and network applications.
+CS3002	core	cybersecurity;networks	Information security principles covering cryptography, authentication, threats, access control and secure systems.
+CS3004	core	software engineering;programming	Software design using object oriented models, design patterns, architecture and analysis of software requirements.
+CS3005	core	algorithms;mathematics	Formal languages, finite automata, regular expressions, grammars and models of computation.
+CS3006	core	systems;cloud computing	Parallel and distributed computation, concurrency, communication, synchronization and performance of distributed programs.
+CS3009	core	software engineering;project management	Software development processes, requirements, design, testing, maintenance and managing engineering projects.
+CS4031	core	algorithms;programming	Compiler design with lexical analysis, parsing, semantic analysis, intermediate representations and code generation.
+AI2002	core	artificial intelligence;machine learning	Intelligent problem solving through search, logic, probability, planning, learning and reasoning under uncertainty.
+CS4032	elective	web development;programming	Web application development with browser interfaces, client and server programming, databases and web security.
+CS4033	elective	data engineering;databases	Analytical data warehouses with dimensional models, ETL pipelines, OLAP and decision support queries.
+CS4034	elective	business analytics;web development	Electronic commerce platforms, business models, payment systems, online marketing and transaction security.
+CS4035	elective	computer graphics;mathematics	Computer graphics covering geometric transformations, viewing, rendering, lighting and visual representation of objects.
+CS4036	elective	software engineering;testing	Software quality assurance with testing strategies, test design, automation and defect analysis.
+CS4037	elective	cloud computing;systems	Cloud service models, virtualization, cloud architecture, resource provisioning, security and deployment.
+CS4038	elective	machine learning;data science	Extracting patterns from data using classification, clustering, association analysis and data preparation.
+CS4039	elective	mobile development;programming	Mobile application development including device interfaces, platform capabilities, local storage and connected services.
+CS4040	elective	geospatial;data science	Remote sensing and geographic information systems for spatial data analysis, satellite imagery and mapping.
+CS4041	elective	simulation;mathematics	Building computer models, simulating system behavior and evaluating model outputs and assumptions.
+CS4043	elective	programming;software engineering	Advanced programming techniques for robust software, reusable abstractions and efficient implementation.
+CS4044	elective	project management;software engineering	Planning software projects through estimation, scheduling, risk management, team coordination and progress control.
+CS4045	elective	deep learning;computer vision	Deep neural models for perception, visual feature learning and recognition in image based tasks.
+CS4046	elective	game development;computer graphics	Game design and implementation covering gameplay, engines, graphics, interaction and development workflows.
+CS4047	elective	natural language processing;machine learning	Applied language processing with tokenization, text classification, embeddings, neural language models and evaluation.
+CS4048	elective	data science;machine learning	Data science workflows with data preparation, exploratory analysis, statistical modeling and communicating findings.
+CS4049	elective	blockchain;cybersecurity	Blockchain architectures, distributed ledgers, consensus, cryptocurrency mechanisms and smart contract applications.
+CS4050	elective	cybersecurity;business analytics	Information systems audit, internal controls, risk assessment, governance and assurance of business systems.
+CS4051	elective	information retrieval;natural language processing	Search systems with document indexing, text representations, ranking models, query processing and relevance evaluation.
+CS4052	elective	finance;data science	Algorithmic trading strategies using financial data, quantitative analysis, backtesting and risk management.
+CS4053	elective	recommender systems;machine learning;information retrieval	Personalized recommendation through content based and collaborative filtering, matrix factorization, hybrid models and ranking evaluation.
+CS4055	elective	computer vision;signal processing	Digital image operations, enhancement, filtering, segmentation and extracting useful visual information.
+CS4056	elective	simulation;mathematics	Simulation models for complex systems, random processes, experiment design and analysis of simulation outcomes.
+CS4057	elective	project management;software engineering	Agile project delivery with iterative planning, team practices, requirements prioritization and continuous improvement.
+CS4058	elective	data engineering;machine learning;databases	Data warehousing and mining combining analytical storage, ETL, pattern discovery and decision support.
+CS4059	elective	computer vision;machine learning	Computer vision foundations covering image features, recognition, visual analysis and computational interpretation of scenes.
+CS4061	elective	cybersecurity;networks	Ethical security assessment using reconnaissance, vulnerability analysis, penetration testing and responsible reporting.
+CS4062	elective	business analytics;data science	Business decision support using descriptive, predictive and prescriptive analytics and interpretation of data.
+CS4063	elective	natural language processing;machine learning	Natural language analysis with linguistic representations, statistical models and computational processing of text.
+CS4064	elective	databases;data engineering	Advanced database concepts involving data models, query processing, transactions and distributed data management.
+CS4065	elective	cybersecurity;networks	Securing networks through cryptographic protocols, authentication, firewalls, intrusion detection and threat mitigation.
+CS4066	elective	bioinformatics;data science	Computational analysis of biological data, sequence comparison and algorithms for understanding biological information.
+CS4067	elective	devops;cloud computing	DevOps practices integrating development and operations through automation, continuous integration, delivery and monitoring.
+CS4068	elective	networks;systems	Network protocol behavior, communication standards, layered architectures and interoperability of network systems.
+CS4069	elective	human computer interaction;design	Usability evaluation, user centered design, interaction assessment and improving the effectiveness of interfaces.
+CS4070	elective	web development;programming	Web technologies for interactive applications, browser functionality, server services and connected information systems.
+CS4073	elective	databases;systems	Database administration including configuration, access management, backup, recovery and performance maintenance.
+CS4074	elective	human computer interaction;design	User experience research, prototyping, interaction design and evaluation of digital products.
+CS4075	elective	cloud computing;systems	Cloud infrastructure, virtualization, distributed services, resource management and cloud application architecture.
+CS4080	elective	data engineering;machine learning	Mining large datasets using scalable algorithms, distributed processing and techniques for discovering large scale patterns.
+CS4083	elective	data engineering;systems	Distributed data pipelines, scalable storage, processing frameworks and engineering reliable data workflows.
+CS4085	elective	mlops;machine learning;devops	Operational machine learning with reproducible workflows, deployment, model lifecycle management and monitoring.
+CS4086	elective	geospatial;data science	Environmental data analysis using statistical and computational methods to study environmental patterns and changes.
+CS4087	elective	databases;data engineering	Advanced database systems with distributed architectures, query optimization, indexing, concurrency, NoSQL and analytical storage.
+CS4088	elective	signal processing;natural language processing	Digital speech analysis, acoustic representations, signal processing and computational applications of speech.
+CS4090	elective	robotics;machine learning	Machine learning methods for robotic perception, decision making and intelligent robotic behavior.
+CS4102	elective	knowledge graphs;information retrieval	Knowledge representation with graphs and linked data, semantic relationships and structured information integration.
+CS4104	elective	machine learning;data science	Practical machine learning using data preparation, model training, evaluation and applying predictive methods.
+CS4105	elective	cybersecurity;cloud computing	Cloud security architecture, identity management, data protection, threats and securing cloud workloads.
+CS4109	elective	data engineering;data science	Big data analytics using Hadoop, MapReduce, Spark, distributed storage and streaming data processing.
+CS4112	elective	deep learning;machine learning	Deep neural network architectures, training methods and applications of representation learning.
+CS4114	elective	internet of things;networks	Connected sensors and actuators, IoT architectures, communication protocols, edge computing and device security.
+CS4115	elective	signal processing;algorithms	Data compression principles and coding techniques for efficient representation, storage and transmission of information.
+CS4118	elective	software engineering;programming	Software evolution, maintenance, legacy system analysis and reengineering for changing requirements.

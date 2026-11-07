@@ -1,0 +1,1739 @@
+{
+  "name": "CoursePilot public FAST computing catalogue subset",
+  "version": "2026.10.11",
+  "retrieved_on": "2026-10-11",
+  "source_url": "https://drive.google.com/file/d/1lEyDHS2W41ixoCpD0wQdmYW7yaZeCAy9/view",
+  "source_discovery_url": "https://nu.edu.pk/Admissions/ProgramOffered",
+  "source_sha256": "3c088657eed84b62a3fbba0ef80f9fe2e1491d9fbee8780246b59a1e24ac393b",
+  "scope": "National 2026 catalogue; project-curated elective pool, not a verified Karachi 2023-batch plan.",
+  "limitations": [
+    "The source marks many specialization courses as core. Project candidate roles are explicitly curated and require batch verification.",
+    "N/A prerequisites mean none listed in this source, not an authoritative waiver.",
+    "Credit hours absent from course pages are null, never guessed.",
+    "Offering availability, seats, timetable and batch rules are unknown.",
+    "Descriptions and topic tags are project-curated summaries, not official course outlines."
+  ],
+  "courses": [
+    {
+      "code": "AI2002",
+      "title": "Artificial Intelligence",
+      "description": "Intelligent problem solving through search, logic, probability, planning, learning and reasoning under uncertainty.",
+      "credits": null,
+      "credits_status": "Not specified on this catalogue page",
+      "category": "core",
+      "category_status": "project_curated_unverified_for_batch",
+      "source_core_for": "BS (AI), BS (CS), BS (SE), BS (CY), BS (DS)",
+      "source_elective_for_cs": false,
+      "tags": [
+        "artificial intelligence",
+        "machine learning"
+      ],
+      "prerequisite_groups": [],
+      "prerequisite_raw": "N/A",
+      "prerequisite_status": "catalogue",
+      "source_url": "https://drive.google.com/file/d/1lEyDHS2W41ixoCpD0wQdmYW7yaZeCAy9/view",
+      "source_page": 16,
+      "offering_status": "unknown",
+      "description_status": "curated_summary"
+    },
+    {
+      "code": "CL1002",
+      "title": "Programming Fundamentals (lab component)",
+      "description": "Laboratory component linked to Programming Fundamentals.",
+      "credits": null,
+      "credits_status": "Not specified in prerequisite reference",
+      "category": "support",
+      "category_status": "prerequisite_reference_only",
+      "source_core_for": "Not separately specified",
+      "source_elective_for_cs": false,
+      "tags": [
+        "programming"
+      ],
+      "prerequisite_groups": [],
+      "prerequisite_raw": "Not specified",
+      "prerequisite_status": "unknown",
+      "source_url": "https://drive.google.com/file/d/1lEyDHS2W41ixoCpD0wQdmYW7yaZeCAy9/view",
+      "source_page": 61,
+      "offering_status": "unknown",
+      "description_status": "derived_lab_label"
+    },
+    {
+      "code": "CL1004",
+      "title": "Object Oriented Programming (lab component)",
+      "description": "Laboratory component linked to Object Oriented Programming.",
+      "credits": null,
+      "credits_status": "Not specified in prerequisite reference",
+      "category": "support",
+      "category_status": "prerequisite_reference_only",
+      "source_core_for": "Not separately specified",
+      "source_elective_for_cs": false,
+      "tags": [
+        "programming",
+        "software engineering"
+      ],
+      "prerequisite_groups": [],
+      "prerequisite_raw": "Not specified",
+      "prerequisite_status": "unknown",
+      "source_url": "https://drive.google.com/file/d/1lEyDHS2W41ixoCpD0wQdmYW7yaZeCAy9/view",
+      "source_page": 66,
+      "offering_status": "unknown",
+      "description_status": "derived_lab_label"
+    },
+    {
+      "code": "CL2001",
+      "title": "Data Structures (lab component)",
+      "description": "Laboratory component linked to Data Structures.",
+      "credits": null,
+      "credits_status": "Not specified in prerequisite reference",
+      "category": "support",
+      "category_status": "prerequisite_reference_only",
+      "source_core_for": "Not separately specified",
+      "source_elective_for_cs": false,
+      "tags": [
+        "algorithms",
+        "programming"
+      ],
+      "prerequisite_groups": [],
+      "prerequisite_raw": "Not specified",
+      "prerequisite_status": "unknown",
+      "source_url": "https://drive.google.com/file/d/1lEyDHS2W41ixoCpD0wQdmYW7yaZeCAy9/view",
+      "source_page": 70,
+      "offering_status": "unknown",
+      "description_status": "derived_lab_label"
+    },
+    {
+      "code": "CL2005",
+      "title": "Database Systems (lab component)",
+      "description": "Laboratory component linked to Database Systems.",
+      "credits": null,
+      "credits_status": "Not specified in prerequisite reference",
+      "category": "support",
+      "category_status": "prerequisite_reference_only",
+      "source_core_for": "Not separately specified",
+      "source_elective_for_cs": false,
+      "tags": [
+        "databases",
+        "data engineering"
+      ],
+      "prerequisite_groups": [],
+      "prerequisite_raw": "Not specified",
+      "prerequisite_status": "unknown",
+      "source_url": "https://drive.google.com/file/d/1lEyDHS2W41ixoCpD0wQdmYW7yaZeCAy9/view",
+      "source_page": 149,
+      "offering_status": "unknown",
+      "description_status": "derived_lab_label"
+    },
+    {
+      "code": "CL2006",
+      "title": "Operating Systems (lab component)",
+      "description": "Laboratory component linked to Operating Systems.",
+      "credits": null,
+      "credits_status": "Not specified in prerequisite reference",
+      "category": "support",
+      "category_status": "prerequisite_reference_only",
+      "source_core_for": "Not separately specified",
+      "source_elective_for_cs": false,
+      "tags": [
+        "systems",
+        "cloud computing"
+      ],
+      "prerequisite_groups": [],
+      "prerequisite_raw": "Not specified",
+      "prerequisite_status": "unknown",
+      "source_url": "https://drive.google.com/file/d/1lEyDHS2W41ixoCpD0wQdmYW7yaZeCAy9/view",
+      "source_page": 85,
+      "offering_status": "unknown",
+      "description_status": "derived_lab_label"
+    },
+    {
+      "code": "CS1002",
+      "title": "Programming Fundamentals",
+      "description": "Programming foundations covering variables, decisions, loops, functions, arrays and solving computational problems.",
+      "credits": null,
+      "credits_status": "Not specified on this catalogue page",
+      "category": "core",
+      "category_status": "project_curated_unverified_for_batch",
+      "source_core_for": "BS (CS)",
+      "source_elective_for_cs": false,
+      "tags": [
+        "programming"
+      ],
+      "prerequisite_groups": [],
+      "prerequisite_raw": "N/A",
+      "prerequisite_status": "catalogue",
+      "source_url": "https://drive.google.com/file/d/1lEyDHS2W41ixoCpD0wQdmYW7yaZeCAy9/view",
+      "source_page": 59,
+      "offering_status": "unknown",
+      "description_status": "curated_summary"
+    },
+    {
+      "code": "CS1004",
+      "title": "Object Oriented Programming",
+      "description": "Object oriented programming with classes, objects, inheritance, polymorphism and reusable software abstractions.",
+      "credits": null,
+      "credits_status": "Not specified on this catalogue page",
+      "category": "core",
+      "category_status": "project_curated_unverified_for_batch",
+      "source_core_for": "BS (CS)",
+      "source_elective_for_cs": false,
+      "tags": [
+        "programming",
+        "software engineering"
+      ],
+      "prerequisite_groups": [
+        [
+          "CS1002"
+        ],
+        [
+          "CL1002"
+        ]
+      ],
+      "prerequisite_raw": "CS1002, CL1002",
+      "prerequisite_status": "catalogue",
+      "source_url": "https://drive.google.com/file/d/1lEyDHS2W41ixoCpD0wQdmYW7yaZeCAy9/view",
+      "source_page": 61,
+      "offering_status": "unknown",
+      "description_status": "curated_summary"
+    },
+    {
+      "code": "CS1005",
+      "title": "Discrete Structures",
+      "description": "Discrete mathematics for computing: logic, sets, relations, counting, graphs and mathematical reasoning.",
+      "credits": null,
+      "credits_status": "Not specified on this catalogue page",
+      "category": "core",
+      "category_status": "project_curated_unverified_for_batch",
+      "source_core_for": "BS (CS)",
+      "source_elective_for_cs": false,
+      "tags": [
+        "algorithms",
+        "mathematics"
+      ],
+      "prerequisite_groups": [],
+      "prerequisite_raw": "N/A",
+      "prerequisite_status": "catalogue",
+      "source_url": "https://drive.google.com/file/d/1lEyDHS2W41ixoCpD0wQdmYW7yaZeCAy9/view",
+      "source_page": 62,
+      "offering_status": "unknown",
+      "description_status": "curated_summary"
+    },
+    {
+      "code": "CS2001",
+      "title": "Data Structures",
+      "description": "Data structures including linked lists, stacks, queues, trees and graphs, with complexity analysis and implementation.",
+      "credits": null,
+      "credits_status": "Not specified on this catalogue page",
+      "category": "core",
+      "category_status": "project_curated_unverified_for_batch",
+      "source_core_for": "BS (CS)",
+      "source_elective_for_cs": false,
+      "tags": [
+        "algorithms",
+        "programming"
+      ],
+      "prerequisite_groups": [
+        [
+          "CS1004"
+        ],
+        [
+          "CL1004"
+        ]
+      ],
+      "prerequisite_raw": "CS1004, CL1004",
+      "prerequisite_status": "catalogue",
+      "source_url": "https://drive.google.com/file/d/1lEyDHS2W41ixoCpD0wQdmYW7yaZeCAy9/view",
+      "source_page": 66,
+      "offering_status": "unknown",
+      "description_status": "curated_summary"
+    },
+    {
+      "code": "CS2005",
+      "title": "Database Systems",
+      "description": "Relational database design, SQL queries, normalization, transactions and management of structured information.",
+      "credits": null,
+      "credits_status": "Not specified on this catalogue page",
+      "category": "core",
+      "category_status": "project_curated_unverified_for_batch",
+      "source_core_for": "BS (CS)",
+      "source_elective_for_cs": false,
+      "tags": [
+        "databases",
+        "data engineering"
+      ],
+      "prerequisite_groups": [
+        [
+          "CS2001"
+        ],
+        [
+          "CL2001"
+        ]
+      ],
+      "prerequisite_raw": "CS2001, CL2001",
+      "prerequisite_status": "catalogue",
+      "source_url": "https://drive.google.com/file/d/1lEyDHS2W41ixoCpD0wQdmYW7yaZeCAy9/view",
+      "source_page": 70,
+      "offering_status": "unknown",
+      "description_status": "curated_summary"
+    },
+    {
+      "code": "CS2006",
+      "title": "Operating Systems",
+      "description": "Operating systems with processes, threads, synchronization, memory management, scheduling and file systems.",
+      "credits": null,
+      "credits_status": "Not specified on this catalogue page",
+      "category": "core",
+      "category_status": "project_curated_unverified_for_batch",
+      "source_core_for": "BS (CS)",
+      "source_elective_for_cs": false,
+      "tags": [
+        "systems",
+        "cloud computing"
+      ],
+      "prerequisite_groups": [
+        [
+          "CS2001"
+        ],
+        [
+          "CL2001"
+        ]
+      ],
+      "prerequisite_raw": "CS2001, CL2001",
+      "prerequisite_status": "catalogue",
+      "source_url": "https://drive.google.com/file/d/1lEyDHS2W41ixoCpD0wQdmYW7yaZeCAy9/view",
+      "source_page": 71,
+      "offering_status": "unknown",
+      "description_status": "curated_summary"
+    },
+    {
+      "code": "CS2009",
+      "title": "Design and Analysis of Algorithms",
+      "description": "Algorithm design and analysis using asymptotic complexity, divide and conquer, greedy methods and dynamic programming.",
+      "credits": null,
+      "credits_status": "Not specified on this catalogue page",
+      "category": "core",
+      "category_status": "project_curated_unverified_for_batch",
+      "source_core_for": "BS (CS)",
+      "source_elective_for_cs": false,
+      "tags": [
+        "algorithms",
+        "mathematics"
+      ],
+      "prerequisite_groups": [
+        [
+          "CS2001"
+        ],
+        [
+          "CL2001"
+        ]
+      ],
+      "prerequisite_raw": "CS2001, CL2001",
+      "prerequisite_status": "catalogue",
+      "source_url": "https://drive.google.com/file/d/1lEyDHS2W41ixoCpD0wQdmYW7yaZeCAy9/view",
+      "source_page": 74,
+      "offering_status": "unknown",
+      "description_status": "curated_summary"
+    },
+    {
+      "code": "CS3001",
+      "title": "Computer Networks",
+      "description": "Computer networking with layered architectures, protocols, routing, transport and network applications.",
+      "credits": null,
+      "credits_status": "Not specified on this catalogue page",
+      "category": "core",
+      "category_status": "project_curated_unverified_for_batch",
+      "source_core_for": "BS (CS)",
+      "source_elective_for_cs": false,
+      "tags": [
+        "networks",
+        "systems"
+      ],
+      "prerequisite_groups": [
+        [
+          "CS2001"
+        ],
+        [
+          "CL2001"
+        ]
+      ],
+      "prerequisite_raw": "CS2001, CL2001",
+      "prerequisite_status": "catalogue",
+      "source_url": "https://drive.google.com/file/d/1lEyDHS2W41ixoCpD0wQdmYW7yaZeCAy9/view",
+      "source_page": 80,
+      "offering_status": "unknown",
+      "description_status": "curated_summary"
+    },
+    {
+      "code": "CS3002",
+      "title": "Information Security",
+      "description": "Information security principles covering cryptography, authentication, threats, access control and secure systems.",
+      "credits": null,
+      "credits_status": "Not specified on this catalogue page",
+      "category": "core",
+      "category_status": "project_curated_unverified_for_batch",
+      "source_core_for": "BS (CS)",
+      "source_elective_for_cs": false,
+      "tags": [
+        "cybersecurity",
+        "networks"
+      ],
+      "prerequisite_groups": [],
+      "prerequisite_raw": "N/A",
+      "prerequisite_status": "catalogue",
+      "source_url": "https://drive.google.com/file/d/1lEyDHS2W41ixoCpD0wQdmYW7yaZeCAy9/view",
+      "source_page": 81,
+      "offering_status": "unknown",
+      "description_status": "curated_summary"
+    },
+    {
+      "code": "CS3004",
+      "title": "Software Design and Analysis",
+      "description": "Software design using object oriented models, design patterns, architecture and analysis of software requirements.",
+      "credits": null,
+      "credits_status": "Not specified on this catalogue page",
+      "category": "core",
+      "category_status": "project_curated_unverified_for_batch",
+      "source_core_for": "N/A",
+      "source_elective_for_cs": true,
+      "tags": [
+        "software engineering",
+        "programming"
+      ],
+      "prerequisite_groups": [
+        [
+          "CS1004"
+        ],
+        [
+          "CL1004"
+        ]
+      ],
+      "prerequisite_raw": "CS1004, CL1004",
+      "prerequisite_status": "catalogue",
+      "source_url": "https://drive.google.com/file/d/1lEyDHS2W41ixoCpD0wQdmYW7yaZeCAy9/view",
+      "source_page": 83,
+      "offering_status": "unknown",
+      "description_status": "curated_summary"
+    },
+    {
+      "code": "CS3005",
+      "title": "Theory of Automata",
+      "description": "Formal languages, finite automata, regular expressions, grammars and models of computation.",
+      "credits": null,
+      "credits_status": "Not specified on this catalogue page",
+      "category": "core",
+      "category_status": "project_curated_unverified_for_batch",
+      "source_core_for": "BS (CS)",
+      "source_elective_for_cs": false,
+      "tags": [
+        "algorithms",
+        "mathematics"
+      ],
+      "prerequisite_groups": [],
+      "prerequisite_raw": "N/A",
+      "prerequisite_status": "catalogue",
+      "source_url": "https://drive.google.com/file/d/1lEyDHS2W41ixoCpD0wQdmYW7yaZeCAy9/view",
+      "source_page": 84,
+      "offering_status": "unknown",
+      "description_status": "curated_summary"
+    },
+    {
+      "code": "CS3006",
+      "title": "Parallel and Distributed Computing",
+      "description": "Parallel and distributed computation, concurrency, communication, synchronization and performance of distributed programs.",
+      "credits": null,
+      "credits_status": "Not specified on this catalogue page",
+      "category": "core",
+      "category_status": "project_curated_unverified_for_batch",
+      "source_core_for": "BS (CS)",
+      "source_elective_for_cs": false,
+      "tags": [
+        "systems",
+        "cloud computing"
+      ],
+      "prerequisite_groups": [
+        [
+          "CS2006"
+        ],
+        [
+          "CL2006"
+        ]
+      ],
+      "prerequisite_raw": "CS2006, CL2006",
+      "prerequisite_status": "catalogue",
+      "source_url": "https://drive.google.com/file/d/1lEyDHS2W41ixoCpD0wQdmYW7yaZeCAy9/view",
+      "source_page": 85,
+      "offering_status": "unknown",
+      "description_status": "curated_summary"
+    },
+    {
+      "code": "CS3009",
+      "title": "Software Engineering",
+      "description": "Software development processes, requirements, design, testing, maintenance and managing engineering projects.",
+      "credits": null,
+      "credits_status": "Not specified on this catalogue page",
+      "category": "core",
+      "category_status": "project_curated_unverified_for_batch",
+      "source_core_for": "BS (CS)",
+      "source_elective_for_cs": false,
+      "tags": [
+        "software engineering",
+        "project management"
+      ],
+      "prerequisite_groups": [
+        [
+          "CS3004"
+        ]
+      ],
+      "prerequisite_raw": "CS3004",
+      "prerequisite_status": "catalogue",
+      "source_url": "https://drive.google.com/file/d/1lEyDHS2W41ixoCpD0wQdmYW7yaZeCAy9/view",
+      "source_page": 88,
+      "offering_status": "unknown",
+      "description_status": "curated_summary"
+    },
+    {
+      "code": "CS4031",
+      "title": "Compiler Construction",
+      "description": "Compiler design with lexical analysis, parsing, semantic analysis, intermediate representations and code generation.",
+      "credits": null,
+      "credits_status": "Not specified on this catalogue page",
+      "category": "core",
+      "category_status": "project_curated_unverified_for_batch",
+      "source_core_for": "BS (CS)",
+      "source_elective_for_cs": false,
+      "tags": [
+        "algorithms",
+        "programming"
+      ],
+      "prerequisite_groups": [
+        [
+          "CS3005"
+        ]
+      ],
+      "prerequisite_raw": "CS3005",
+      "prerequisite_status": "catalogue",
+      "source_url": "https://drive.google.com/file/d/1lEyDHS2W41ixoCpD0wQdmYW7yaZeCAy9/view",
+      "source_page": 100,
+      "offering_status": "unknown",
+      "description_status": "curated_summary"
+    },
+    {
+      "code": "CS4032",
+      "title": "Web Programming",
+      "description": "Web application development with browser interfaces, client and server programming, databases and web security.",
+      "credits": null,
+      "credits_status": "Not specified on this catalogue page",
+      "category": "elective",
+      "category_status": "project_curated_unverified_for_batch",
+      "source_core_for": "BS (CS)",
+      "source_elective_for_cs": false,
+      "tags": [
+        "web development",
+        "programming"
+      ],
+      "prerequisite_groups": [],
+      "prerequisite_raw": "N/A",
+      "prerequisite_status": "catalogue",
+      "source_url": "https://drive.google.com/file/d/1lEyDHS2W41ixoCpD0wQdmYW7yaZeCAy9/view",
+      "source_page": 101,
+      "offering_status": "unknown",
+      "description_status": "curated_summary"
+    },
+    {
+      "code": "CS4033",
+      "title": "Data Warehousing",
+      "description": "Analytical data warehouses with dimensional models, ETL pipelines, OLAP and decision support queries.",
+      "credits": null,
+      "credits_status": "Not specified on this catalogue page",
+      "category": "elective",
+      "category_status": "project_curated_unverified_for_batch",
+      "source_core_for": "BS (CS)",
+      "source_elective_for_cs": false,
+      "tags": [
+        "data engineering",
+        "databases"
+      ],
+      "prerequisite_groups": [],
+      "prerequisite_raw": "N/A",
+      "prerequisite_status": "catalogue",
+      "source_url": "https://drive.google.com/file/d/1lEyDHS2W41ixoCpD0wQdmYW7yaZeCAy9/view",
+      "source_page": 102,
+      "offering_status": "unknown",
+      "description_status": "curated_summary"
+    },
+    {
+      "code": "CS4034",
+      "title": "E-Commerce",
+      "description": "Electronic commerce platforms, business models, payment systems, online marketing and transaction security.",
+      "credits": null,
+      "credits_status": "Not specified on this catalogue page",
+      "category": "elective",
+      "category_status": "project_curated_unverified_for_batch",
+      "source_core_for": "BS (CS)",
+      "source_elective_for_cs": false,
+      "tags": [
+        "business analytics",
+        "web development"
+      ],
+      "prerequisite_groups": [],
+      "prerequisite_raw": "N/A",
+      "prerequisite_status": "catalogue",
+      "source_url": "https://drive.google.com/file/d/1lEyDHS2W41ixoCpD0wQdmYW7yaZeCAy9/view",
+      "source_page": 103,
+      "offering_status": "unknown",
+      "description_status": "curated_summary"
+    },
+    {
+      "code": "CS4035",
+      "title": "Computer Graphics",
+      "description": "Computer graphics covering geometric transformations, viewing, rendering, lighting and visual representation of objects.",
+      "credits": null,
+      "credits_status": "Not specified on this catalogue page",
+      "category": "elective",
+      "category_status": "project_curated_unverified_for_batch",
+      "source_core_for": "BS (CS)",
+      "source_elective_for_cs": false,
+      "tags": [
+        "computer graphics",
+        "mathematics"
+      ],
+      "prerequisite_groups": [],
+      "prerequisite_raw": "N/A",
+      "prerequisite_status": "catalogue",
+      "source_url": "https://drive.google.com/file/d/1lEyDHS2W41ixoCpD0wQdmYW7yaZeCAy9/view",
+      "source_page": 104,
+      "offering_status": "unknown",
+      "description_status": "curated_summary"
+    },
+    {
+      "code": "CS4036",
+      "title": "Software Testing",
+      "description": "Software quality assurance with testing strategies, test design, automation and defect analysis.",
+      "credits": null,
+      "credits_status": "Not specified on this catalogue page",
+      "category": "elective",
+      "category_status": "project_curated_unverified_for_batch",
+      "source_core_for": "BS (CS)",
+      "source_elective_for_cs": false,
+      "tags": [
+        "software engineering",
+        "testing"
+      ],
+      "prerequisite_groups": [],
+      "prerequisite_raw": "N/A",
+      "prerequisite_status": "catalogue",
+      "source_url": "https://drive.google.com/file/d/1lEyDHS2W41ixoCpD0wQdmYW7yaZeCAy9/view",
+      "source_page": 105,
+      "offering_status": "unknown",
+      "description_status": "curated_summary"
+    },
+    {
+      "code": "CS4037",
+      "title": "Introduction to Cloud Computing",
+      "description": "Cloud service models, virtualization, cloud architecture, resource provisioning, security and deployment.",
+      "credits": null,
+      "credits_status": "Not specified on this catalogue page",
+      "category": "elective",
+      "category_status": "project_curated_unverified_for_batch",
+      "source_core_for": "BS (CS)",
+      "source_elective_for_cs": false,
+      "tags": [
+        "cloud computing",
+        "systems"
+      ],
+      "prerequisite_groups": [],
+      "prerequisite_raw": "N/A",
+      "prerequisite_status": "catalogue",
+      "source_url": "https://drive.google.com/file/d/1lEyDHS2W41ixoCpD0wQdmYW7yaZeCAy9/view",
+      "source_page": 106,
+      "offering_status": "unknown",
+      "description_status": "curated_summary"
+    },
+    {
+      "code": "CS4038",
+      "title": "Data Mining",
+      "description": "Extracting patterns from data using classification, clustering, association analysis and data preparation.",
+      "credits": null,
+      "credits_status": "Not specified on this catalogue page",
+      "category": "elective",
+      "category_status": "project_curated_unverified_for_batch",
+      "source_core_for": "BS (CS)",
+      "source_elective_for_cs": false,
+      "tags": [
+        "machine learning",
+        "data science"
+      ],
+      "prerequisite_groups": [],
+      "prerequisite_raw": "N/A",
+      "prerequisite_status": "catalogue",
+      "source_url": "https://drive.google.com/file/d/1lEyDHS2W41ixoCpD0wQdmYW7yaZeCAy9/view",
+      "source_page": 107,
+      "offering_status": "unknown",
+      "description_status": "curated_summary"
+    },
+    {
+      "code": "CS4039",
+      "title": "Software for Mobile Devices",
+      "description": "Mobile application development including device interfaces, platform capabilities, local storage and connected services.",
+      "credits": null,
+      "credits_status": "Not specified on this catalogue page",
+      "category": "elective",
+      "category_status": "project_curated_unverified_for_batch",
+      "source_core_for": "BS (CS)",
+      "source_elective_for_cs": false,
+      "tags": [
+        "mobile development",
+        "programming"
+      ],
+      "prerequisite_groups": [],
+      "prerequisite_raw": "N/A",
+      "prerequisite_status": "catalogue",
+      "source_url": "https://drive.google.com/file/d/1lEyDHS2W41ixoCpD0wQdmYW7yaZeCAy9/view",
+      "source_page": 108,
+      "offering_status": "unknown",
+      "description_status": "curated_summary"
+    },
+    {
+      "code": "CS4040",
+      "title": "Remote Sensing and GIS",
+      "description": "Remote sensing and geographic information systems for spatial data analysis, satellite imagery and mapping.",
+      "credits": null,
+      "credits_status": "Not specified on this catalogue page",
+      "category": "elective",
+      "category_status": "project_curated_unverified_for_batch",
+      "source_core_for": "BS (CS)",
+      "source_elective_for_cs": false,
+      "tags": [
+        "geospatial",
+        "data science"
+      ],
+      "prerequisite_groups": [],
+      "prerequisite_raw": "N/A",
+      "prerequisite_status": "catalogue",
+      "source_url": "https://drive.google.com/file/d/1lEyDHS2W41ixoCpD0wQdmYW7yaZeCAy9/view",
+      "source_page": 109,
+      "offering_status": "unknown",
+      "description_status": "curated_summary"
+    },
+    {
+      "code": "CS4041",
+      "title": "Computer Modeling and Simulation",
+      "description": "Building computer models, simulating system behavior and evaluating model outputs and assumptions.",
+      "credits": null,
+      "credits_status": "Not specified on this catalogue page",
+      "category": "elective",
+      "category_status": "project_curated_unverified_for_batch",
+      "source_core_for": "BS (CS)",
+      "source_elective_for_cs": false,
+      "tags": [
+        "simulation",
+        "mathematics"
+      ],
+      "prerequisite_groups": [],
+      "prerequisite_raw": "N/A",
+      "prerequisite_status": "catalogue",
+      "source_url": "https://drive.google.com/file/d/1lEyDHS2W41ixoCpD0wQdmYW7yaZeCAy9/view",
+      "source_page": 110,
+      "offering_status": "unknown",
+      "description_status": "curated_summary"
+    },
+    {
+      "code": "CS4043",
+      "title": "Advanced Programming",
+      "description": "Advanced programming techniques for robust software, reusable abstractions and efficient implementation.",
+      "credits": null,
+      "credits_status": "Not specified on this catalogue page",
+      "category": "elective",
+      "category_status": "project_curated_unverified_for_batch",
+      "source_core_for": "BS (CS)",
+      "source_elective_for_cs": false,
+      "tags": [
+        "programming",
+        "software engineering"
+      ],
+      "prerequisite_groups": [],
+      "prerequisite_raw": "N/A",
+      "prerequisite_status": "catalogue",
+      "source_url": "https://drive.google.com/file/d/1lEyDHS2W41ixoCpD0wQdmYW7yaZeCAy9/view",
+      "source_page": 112,
+      "offering_status": "unknown",
+      "description_status": "curated_summary"
+    },
+    {
+      "code": "CS4044",
+      "title": "Fundamentals of Software Project Management",
+      "description": "Planning software projects through estimation, scheduling, risk management, team coordination and progress control.",
+      "credits": null,
+      "credits_status": "Not specified on this catalogue page",
+      "category": "elective",
+      "category_status": "project_curated_unverified_for_batch",
+      "source_core_for": "BS (CS)",
+      "source_elective_for_cs": false,
+      "tags": [
+        "project management",
+        "software engineering"
+      ],
+      "prerequisite_groups": [],
+      "prerequisite_raw": "N/A",
+      "prerequisite_status": "catalogue",
+      "source_url": "https://drive.google.com/file/d/1lEyDHS2W41ixoCpD0wQdmYW7yaZeCAy9/view",
+      "source_page": 113,
+      "offering_status": "unknown",
+      "description_status": "curated_summary"
+    },
+    {
+      "code": "CS4045",
+      "title": "Deep Learning for Perception",
+      "description": "Deep neural models for perception, visual feature learning and recognition in image based tasks.",
+      "credits": null,
+      "credits_status": "Not specified on this catalogue page",
+      "category": "elective",
+      "category_status": "project_curated_unverified_for_batch",
+      "source_core_for": "BS (AI), BS (CS), BS (CY) & BS (SE)",
+      "source_elective_for_cs": false,
+      "tags": [
+        "deep learning",
+        "computer vision"
+      ],
+      "prerequisite_groups": [
+        [
+          "CL2001"
+        ],
+        [
+          "CS2001"
+        ]
+      ],
+      "prerequisite_raw": "CL2001, CS2001",
+      "prerequisite_status": "catalogue",
+      "source_url": "https://drive.google.com/file/d/1lEyDHS2W41ixoCpD0wQdmYW7yaZeCAy9/view",
+      "source_page": 114,
+      "offering_status": "unknown",
+      "description_status": "curated_summary"
+    },
+    {
+      "code": "CS4046",
+      "title": "Game Design and Development",
+      "description": "Game design and implementation covering gameplay, engines, graphics, interaction and development workflows.",
+      "credits": null,
+      "credits_status": "Not specified on this catalogue page",
+      "category": "elective",
+      "category_status": "project_curated_unverified_for_batch",
+      "source_core_for": "BS (CS)",
+      "source_elective_for_cs": false,
+      "tags": [
+        "game development",
+        "computer graphics"
+      ],
+      "prerequisite_groups": [],
+      "prerequisite_raw": "N/A",
+      "prerequisite_status": "catalogue",
+      "source_url": "https://drive.google.com/file/d/1lEyDHS2W41ixoCpD0wQdmYW7yaZeCAy9/view",
+      "source_page": 115,
+      "offering_status": "unknown",
+      "description_status": "curated_summary"
+    },
+    {
+      "code": "CS4047",
+      "title": "Applied Natural Language Processing",
+      "description": "Applied language processing with tokenization, text classification, embeddings, neural language models and evaluation.",
+      "credits": null,
+      "credits_status": "Not specified on this catalogue page",
+      "category": "elective",
+      "category_status": "project_curated_unverified_for_batch",
+      "source_core_for": "BS (CS)",
+      "source_elective_for_cs": false,
+      "tags": [
+        "natural language processing",
+        "machine learning"
+      ],
+      "prerequisite_groups": [],
+      "prerequisite_raw": "N/A",
+      "prerequisite_status": "catalogue",
+      "source_url": "https://drive.google.com/file/d/1lEyDHS2W41ixoCpD0wQdmYW7yaZeCAy9/view",
+      "source_page": 116,
+      "offering_status": "unknown",
+      "description_status": "curated_summary"
+    },
+    {
+      "code": "CS4048",
+      "title": "Data Science",
+      "description": "Data science workflows with data preparation, exploratory analysis, statistical modeling and communicating findings.",
+      "credits": null,
+      "credits_status": "Not specified on this catalogue page",
+      "category": "elective",
+      "category_status": "project_curated_unverified_for_batch",
+      "source_core_for": "BS (CS)",
+      "source_elective_for_cs": false,
+      "tags": [
+        "data science",
+        "machine learning"
+      ],
+      "prerequisite_groups": [],
+      "prerequisite_raw": "N/A",
+      "prerequisite_status": "catalogue",
+      "source_url": "https://drive.google.com/file/d/1lEyDHS2W41ixoCpD0wQdmYW7yaZeCAy9/view",
+      "source_page": 117,
+      "offering_status": "unknown",
+      "description_status": "curated_summary"
+    },
+    {
+      "code": "CS4049",
+      "title": "Block chain and Crypto currency",
+      "description": "Blockchain architectures, distributed ledgers, consensus, cryptocurrency mechanisms and smart contract applications.",
+      "credits": null,
+      "credits_status": "Not specified on this catalogue page",
+      "category": "elective",
+      "category_status": "project_curated_unverified_for_batch",
+      "source_core_for": "BS (CS)",
+      "source_elective_for_cs": false,
+      "tags": [
+        "blockchain",
+        "cybersecurity"
+      ],
+      "prerequisite_groups": [],
+      "prerequisite_raw": "N/A",
+      "prerequisite_status": "catalogue",
+      "source_url": "https://drive.google.com/file/d/1lEyDHS2W41ixoCpD0wQdmYW7yaZeCAy9/view",
+      "source_page": 118,
+      "offering_status": "unknown",
+      "description_status": "curated_summary"
+    },
+    {
+      "code": "CS4050",
+      "title": "Information Systems Audit and Control",
+      "description": "Information systems audit, internal controls, risk assessment, governance and assurance of business systems.",
+      "credits": null,
+      "credits_status": "Not specified on this catalogue page",
+      "category": "elective",
+      "category_status": "project_curated_unverified_for_batch",
+      "source_core_for": "BS (CS)",
+      "source_elective_for_cs": false,
+      "tags": [
+        "cybersecurity",
+        "business analytics"
+      ],
+      "prerequisite_groups": [],
+      "prerequisite_raw": "N/A",
+      "prerequisite_status": "catalogue",
+      "source_url": "https://drive.google.com/file/d/1lEyDHS2W41ixoCpD0wQdmYW7yaZeCAy9/view",
+      "source_page": 119,
+      "offering_status": "unknown",
+      "description_status": "curated_summary"
+    },
+    {
+      "code": "CS4051",
+      "title": "Information Retrieval",
+      "description": "Search systems with document indexing, text representations, ranking models, query processing and relevance evaluation.",
+      "credits": null,
+      "credits_status": "Not specified on this catalogue page",
+      "category": "elective",
+      "category_status": "project_curated_unverified_for_batch",
+      "source_core_for": "BS (CS)",
+      "source_elective_for_cs": false,
+      "tags": [
+        "information retrieval",
+        "natural language processing"
+      ],
+      "prerequisite_groups": [],
+      "prerequisite_raw": "N/A",
+      "prerequisite_status": "catalogue",
+      "source_url": "https://drive.google.com/file/d/1lEyDHS2W41ixoCpD0wQdmYW7yaZeCAy9/view",
+      "source_page": 120,
+      "offering_status": "unknown",
+      "description_status": "curated_summary"
+    },
+    {
+      "code": "CS4052",
+      "title": "Algorithmic Trading",
+      "description": "Algorithmic trading strategies using financial data, quantitative analysis, backtesting and risk management.",
+      "credits": null,
+      "credits_status": "Not specified on this catalogue page",
+      "category": "elective",
+      "category_status": "project_curated_unverified_for_batch",
+      "source_core_for": "BS (CS)",
+      "source_elective_for_cs": false,
+      "tags": [
+        "finance",
+        "data science"
+      ],
+      "prerequisite_groups": [],
+      "prerequisite_raw": "N/A",
+      "prerequisite_status": "catalogue",
+      "source_url": "https://drive.google.com/file/d/1lEyDHS2W41ixoCpD0wQdmYW7yaZeCAy9/view",
+      "source_page": 121,
+      "offering_status": "unknown",
+      "description_status": "curated_summary"
+    },
+    {
+      "code": "CS4053",
+      "title": "Recommender Systems",
+      "description": "Personalized recommendation through content based and collaborative filtering, matrix factorization, hybrid models and ranking evaluation.",
+      "credits": null,
+      "credits_status": "Not specified on this catalogue page",
+      "category": "elective",
+      "category_status": "project_curated_unverified_for_batch",
+      "source_core_for": "BS (CS)",
+      "source_elective_for_cs": false,
+      "tags": [
+        "recommender systems",
+        "machine learning",
+        "information retrieval"
+      ],
+      "prerequisite_groups": [],
+      "prerequisite_raw": "N/A",
+      "prerequisite_status": "catalogue",
+      "source_url": "https://drive.google.com/file/d/1lEyDHS2W41ixoCpD0wQdmYW7yaZeCAy9/view",
+      "source_page": 122,
+      "offering_status": "unknown",
+      "description_status": "curated_summary"
+    },
+    {
+      "code": "CS4055",
+      "title": "Digital Image Processing",
+      "description": "Digital image operations, enhancement, filtering, segmentation and extracting useful visual information.",
+      "credits": null,
+      "credits_status": "Not specified on this catalogue page",
+      "category": "elective",
+      "category_status": "project_curated_unverified_for_batch",
+      "source_core_for": "BS (CS)",
+      "source_elective_for_cs": false,
+      "tags": [
+        "computer vision",
+        "signal processing"
+      ],
+      "prerequisite_groups": [],
+      "prerequisite_raw": "N/A",
+      "prerequisite_status": "catalogue",
+      "source_url": "https://drive.google.com/file/d/1lEyDHS2W41ixoCpD0wQdmYW7yaZeCAy9/view",
+      "source_page": 123,
+      "offering_status": "unknown",
+      "description_status": "curated_summary"
+    },
+    {
+      "code": "CS4056",
+      "title": "Simulation and Modeling",
+      "description": "Simulation models for complex systems, random processes, experiment design and analysis of simulation outcomes.",
+      "credits": null,
+      "credits_status": "Not specified on this catalogue page",
+      "category": "elective",
+      "category_status": "project_curated_unverified_for_batch",
+      "source_core_for": "BS (CS)",
+      "source_elective_for_cs": false,
+      "tags": [
+        "simulation",
+        "mathematics"
+      ],
+      "prerequisite_groups": [],
+      "prerequisite_raw": "N/A",
+      "prerequisite_status": "catalogue",
+      "source_url": "https://drive.google.com/file/d/1lEyDHS2W41ixoCpD0wQdmYW7yaZeCAy9/view",
+      "source_page": 124,
+      "offering_status": "unknown",
+      "description_status": "curated_summary"
+    },
+    {
+      "code": "CS4057",
+      "title": "Agile Software Project Management",
+      "description": "Agile project delivery with iterative planning, team practices, requirements prioritization and continuous improvement.",
+      "credits": null,
+      "credits_status": "Not specified on this catalogue page",
+      "category": "elective",
+      "category_status": "project_curated_unverified_for_batch",
+      "source_core_for": "BS (CS) & BS (SE)",
+      "source_elective_for_cs": false,
+      "tags": [
+        "project management",
+        "software engineering"
+      ],
+      "prerequisite_groups": [],
+      "prerequisite_raw": "N/A",
+      "prerequisite_status": "catalogue",
+      "source_url": "https://drive.google.com/file/d/1lEyDHS2W41ixoCpD0wQdmYW7yaZeCAy9/view",
+      "source_page": 125,
+      "offering_status": "unknown",
+      "description_status": "curated_summary"
+    },
+    {
+      "code": "CS4058",
+      "title": "Data Warehousing and Data Mining",
+      "description": "Data warehousing and mining combining analytical storage, ETL, pattern discovery and decision support.",
+      "credits": null,
+      "credits_status": "Not specified on this catalogue page",
+      "category": "elective",
+      "category_status": "project_curated_unverified_for_batch",
+      "source_core_for": "BS (CS)",
+      "source_elective_for_cs": false,
+      "tags": [
+        "data engineering",
+        "machine learning",
+        "databases"
+      ],
+      "prerequisite_groups": [],
+      "prerequisite_raw": "N/A",
+      "prerequisite_status": "catalogue",
+      "source_url": "https://drive.google.com/file/d/1lEyDHS2W41ixoCpD0wQdmYW7yaZeCAy9/view",
+      "source_page": 126,
+      "offering_status": "unknown",
+      "description_status": "curated_summary"
+    },
+    {
+      "code": "CS4059",
+      "title": "Fundamentals of Computer Vision",
+      "description": "Computer vision foundations covering image features, recognition, visual analysis and computational interpretation of scenes.",
+      "credits": null,
+      "credits_status": "Not specified on this catalogue page",
+      "category": "elective",
+      "category_status": "project_curated_unverified_for_batch",
+      "source_core_for": "BS (CS)",
+      "source_elective_for_cs": false,
+      "tags": [
+        "computer vision",
+        "machine learning"
+      ],
+      "prerequisite_groups": [],
+      "prerequisite_raw": "N/A",
+      "prerequisite_status": "catalogue",
+      "source_url": "https://drive.google.com/file/d/1lEyDHS2W41ixoCpD0wQdmYW7yaZeCAy9/view",
+      "source_page": 127,
+      "offering_status": "unknown",
+      "description_status": "curated_summary"
+    },
+    {
+      "code": "CS4061",
+      "title": "Ethical Hacking Concepts and Practices",
+      "description": "Ethical security assessment using reconnaissance, vulnerability analysis, penetration testing and responsible reporting.",
+      "credits": null,
+      "credits_status": "Not specified on this catalogue page",
+      "category": "elective",
+      "category_status": "project_curated_unverified_for_batch",
+      "source_core_for": "BS (CS)",
+      "source_elective_for_cs": false,
+      "tags": [
+        "cybersecurity",
+        "networks"
+      ],
+      "prerequisite_groups": [],
+      "prerequisite_raw": "N/A",
+      "prerequisite_status": "catalogue",
+      "source_url": "https://drive.google.com/file/d/1lEyDHS2W41ixoCpD0wQdmYW7yaZeCAy9/view",
+      "source_page": 128,
+      "offering_status": "unknown",
+      "description_status": "curated_summary"
+    },
+    {
+      "code": "CS4062",
+      "title": "Business Analytics Techniques",
+      "description": "Business decision support using descriptive, predictive and prescriptive analytics and interpretation of data.",
+      "credits": null,
+      "credits_status": "Not specified on this catalogue page",
+      "category": "elective",
+      "category_status": "project_curated_unverified_for_batch",
+      "source_core_for": "BS (CS)",
+      "source_elective_for_cs": false,
+      "tags": [
+        "business analytics",
+        "data science"
+      ],
+      "prerequisite_groups": [],
+      "prerequisite_raw": "N/A",
+      "prerequisite_status": "catalogue",
+      "source_url": "https://drive.google.com/file/d/1lEyDHS2W41ixoCpD0wQdmYW7yaZeCAy9/view",
+      "source_page": 129,
+      "offering_status": "unknown",
+      "description_status": "curated_summary"
+    },
+    {
+      "code": "CS4063",
+      "title": "Natural Language Processing",
+      "description": "Natural language analysis with linguistic representations, statistical models and computational processing of text.",
+      "credits": null,
+      "credits_status": "Not specified on this catalogue page",
+      "category": "elective",
+      "category_status": "project_curated_unverified_for_batch",
+      "source_core_for": "BS (CS)",
+      "source_elective_for_cs": false,
+      "tags": [
+        "natural language processing",
+        "machine learning"
+      ],
+      "prerequisite_groups": [],
+      "prerequisite_raw": "N/A",
+      "prerequisite_status": "catalogue",
+      "source_url": "https://drive.google.com/file/d/1lEyDHS2W41ixoCpD0wQdmYW7yaZeCAy9/view",
+      "source_page": 130,
+      "offering_status": "unknown",
+      "description_status": "curated_summary"
+    },
+    {
+      "code": "CS4064",
+      "title": "Advance Database Concepts",
+      "description": "Advanced database concepts involving data models, query processing, transactions and distributed data management.",
+      "credits": null,
+      "credits_status": "Not specified on this catalogue page",
+      "category": "elective",
+      "category_status": "project_curated_unverified_for_batch",
+      "source_core_for": "BS (CS)",
+      "source_elective_for_cs": false,
+      "tags": [
+        "databases",
+        "data engineering"
+      ],
+      "prerequisite_groups": [],
+      "prerequisite_raw": "N/A",
+      "prerequisite_status": "catalogue",
+      "source_url": "https://drive.google.com/file/d/1lEyDHS2W41ixoCpD0wQdmYW7yaZeCAy9/view",
+      "source_page": 131,
+      "offering_status": "unknown",
+      "description_status": "curated_summary"
+    },
+    {
+      "code": "CS4065",
+      "title": "Network Security",
+      "description": "Securing networks through cryptographic protocols, authentication, firewalls, intrusion detection and threat mitigation.",
+      "credits": null,
+      "credits_status": "Not specified on this catalogue page",
+      "category": "elective",
+      "category_status": "project_curated_unverified_for_batch",
+      "source_core_for": "BS (CS), BS (CY)",
+      "source_elective_for_cs": false,
+      "tags": [
+        "cybersecurity",
+        "networks"
+      ],
+      "prerequisite_groups": [],
+      "prerequisite_raw": "N/A",
+      "prerequisite_status": "catalogue",
+      "source_url": "https://drive.google.com/file/d/1lEyDHS2W41ixoCpD0wQdmYW7yaZeCAy9/view",
+      "source_page": 132,
+      "offering_status": "unknown",
+      "description_status": "curated_summary"
+    },
+    {
+      "code": "CS4066",
+      "title": "Introduction to Bioinformatics",
+      "description": "Computational analysis of biological data, sequence comparison and algorithms for understanding biological information.",
+      "credits": null,
+      "credits_status": "Not specified on this catalogue page",
+      "category": "elective",
+      "category_status": "project_curated_unverified_for_batch",
+      "source_core_for": "BS (CS)",
+      "source_elective_for_cs": false,
+      "tags": [
+        "bioinformatics",
+        "data science"
+      ],
+      "prerequisite_groups": [],
+      "prerequisite_raw": "N/A",
+      "prerequisite_status": "catalogue",
+      "source_url": "https://drive.google.com/file/d/1lEyDHS2W41ixoCpD0wQdmYW7yaZeCAy9/view",
+      "source_page": 133,
+      "offering_status": "unknown",
+      "description_status": "curated_summary"
+    },
+    {
+      "code": "CS4067",
+      "title": "DevOps",
+      "description": "DevOps practices integrating development and operations through automation, continuous integration, delivery and monitoring.",
+      "credits": null,
+      "credits_status": "Not specified on this catalogue page",
+      "category": "elective",
+      "category_status": "project_curated_unverified_for_batch",
+      "source_core_for": "BS (CS)",
+      "source_elective_for_cs": false,
+      "tags": [
+        "devops",
+        "cloud computing"
+      ],
+      "prerequisite_groups": [],
+      "prerequisite_raw": "N/A",
+      "prerequisite_status": "catalogue",
+      "source_url": "https://drive.google.com/file/d/1lEyDHS2W41ixoCpD0wQdmYW7yaZeCAy9/view",
+      "source_page": 134,
+      "offering_status": "unknown",
+      "description_status": "curated_summary"
+    },
+    {
+      "code": "CS4068",
+      "title": "Network Protocols and Standards",
+      "description": "Network protocol behavior, communication standards, layered architectures and interoperability of network systems.",
+      "credits": null,
+      "credits_status": "Not specified on this catalogue page",
+      "category": "elective",
+      "category_status": "project_curated_unverified_for_batch",
+      "source_core_for": "BS (CS) & BS (CY)",
+      "source_elective_for_cs": false,
+      "tags": [
+        "networks",
+        "systems"
+      ],
+      "prerequisite_groups": [],
+      "prerequisite_raw": "N/A",
+      "prerequisite_status": "catalogue",
+      "source_url": "https://drive.google.com/file/d/1lEyDHS2W41ixoCpD0wQdmYW7yaZeCAy9/view",
+      "source_page": 135,
+      "offering_status": "unknown",
+      "description_status": "curated_summary"
+    },
+    {
+      "code": "CS4069",
+      "title": "Usability Engineering",
+      "description": "Usability evaluation, user centered design, interaction assessment and improving the effectiveness of interfaces.",
+      "credits": null,
+      "credits_status": "Not specified on this catalogue page",
+      "category": "elective",
+      "category_status": "project_curated_unverified_for_batch",
+      "source_core_for": "BS (CS)",
+      "source_elective_for_cs": false,
+      "tags": [
+        "human computer interaction",
+        "design"
+      ],
+      "prerequisite_groups": [],
+      "prerequisite_raw": "N/A",
+      "prerequisite_status": "catalogue",
+      "source_url": "https://drive.google.com/file/d/1lEyDHS2W41ixoCpD0wQdmYW7yaZeCAy9/view",
+      "source_page": 136,
+      "offering_status": "unknown",
+      "description_status": "curated_summary"
+    },
+    {
+      "code": "CS4070",
+      "title": "Web Technologies",
+      "description": "Web technologies for interactive applications, browser functionality, server services and connected information systems.",
+      "credits": null,
+      "credits_status": "Not specified on this catalogue page",
+      "category": "elective",
+      "category_status": "project_curated_unverified_for_batch",
+      "source_core_for": "BS (CS)",
+      "source_elective_for_cs": false,
+      "tags": [
+        "web development",
+        "programming"
+      ],
+      "prerequisite_groups": [],
+      "prerequisite_raw": "N/A",
+      "prerequisite_status": "catalogue",
+      "source_url": "https://drive.google.com/file/d/1lEyDHS2W41ixoCpD0wQdmYW7yaZeCAy9/view",
+      "source_page": 137,
+      "offering_status": "unknown",
+      "description_status": "curated_summary"
+    },
+    {
+      "code": "CS4073",
+      "title": "Database Administration",
+      "description": "Database administration including configuration, access management, backup, recovery and performance maintenance.",
+      "credits": null,
+      "credits_status": "Not specified on this catalogue page",
+      "category": "elective",
+      "category_status": "project_curated_unverified_for_batch",
+      "source_core_for": "BS (CS)",
+      "source_elective_for_cs": false,
+      "tags": [
+        "databases",
+        "systems"
+      ],
+      "prerequisite_groups": [],
+      "prerequisite_raw": "N/A",
+      "prerequisite_status": "catalogue",
+      "source_url": "https://drive.google.com/file/d/1lEyDHS2W41ixoCpD0wQdmYW7yaZeCAy9/view",
+      "source_page": 140,
+      "offering_status": "unknown",
+      "description_status": "curated_summary"
+    },
+    {
+      "code": "CS4074",
+      "title": "User Experience Engineering",
+      "description": "User experience research, prototyping, interaction design and evaluation of digital products.",
+      "credits": null,
+      "credits_status": "Not specified on this catalogue page",
+      "category": "elective",
+      "category_status": "project_curated_unverified_for_batch",
+      "source_core_for": "BS (CS)",
+      "source_elective_for_cs": false,
+      "tags": [
+        "human computer interaction",
+        "design"
+      ],
+      "prerequisite_groups": [],
+      "prerequisite_raw": "N/A",
+      "prerequisite_status": "catalogue",
+      "source_url": "https://drive.google.com/file/d/1lEyDHS2W41ixoCpD0wQdmYW7yaZeCAy9/view",
+      "source_page": 141,
+      "offering_status": "unknown",
+      "description_status": "curated_summary"
+    },
+    {
+      "code": "CS4075",
+      "title": "Cloud Computing",
+      "description": "Cloud infrastructure, virtualization, distributed services, resource management and cloud application architecture.",
+      "credits": null,
+      "credits_status": "Not specified on this catalogue page",
+      "category": "elective",
+      "category_status": "project_curated_unverified_for_batch",
+      "source_core_for": "BS (CS)",
+      "source_elective_for_cs": false,
+      "tags": [
+        "cloud computing",
+        "systems"
+      ],
+      "prerequisite_groups": [],
+      "prerequisite_raw": "N/A",
+      "prerequisite_status": "catalogue",
+      "source_url": "https://drive.google.com/file/d/1lEyDHS2W41ixoCpD0wQdmYW7yaZeCAy9/view",
+      "source_page": 142,
+      "offering_status": "unknown",
+      "description_status": "curated_summary"
+    },
+    {
+      "code": "CS4080",
+      "title": "Mining Massive Datasets",
+      "description": "Mining large datasets using scalable algorithms, distributed processing and techniques for discovering large scale patterns.",
+      "credits": null,
+      "credits_status": "Not specified on this catalogue page",
+      "category": "elective",
+      "category_status": "project_curated_unverified_for_batch",
+      "source_core_for": "BS (CS)",
+      "source_elective_for_cs": false,
+      "tags": [
+        "data engineering",
+        "machine learning"
+      ],
+      "prerequisite_groups": [],
+      "prerequisite_raw": "N/A",
+      "prerequisite_status": "catalogue",
+      "source_url": "https://drive.google.com/file/d/1lEyDHS2W41ixoCpD0wQdmYW7yaZeCAy9/view",
+      "source_page": 143,
+      "offering_status": "unknown",
+      "description_status": "curated_summary"
+    },
+    {
+      "code": "CS4083",
+      "title": "Distributed Data Engineering",
+      "description": "Distributed data pipelines, scalable storage, processing frameworks and engineering reliable data workflows.",
+      "credits": null,
+      "credits_status": "Not specified on this catalogue page",
+      "category": "elective",
+      "category_status": "project_curated_unverified_for_batch",
+      "source_core_for": "BS (CS)",
+      "source_elective_for_cs": false,
+      "tags": [
+        "data engineering",
+        "systems"
+      ],
+      "prerequisite_groups": [],
+      "prerequisite_raw": "N/A",
+      "prerequisite_status": "catalogue",
+      "source_url": "https://drive.google.com/file/d/1lEyDHS2W41ixoCpD0wQdmYW7yaZeCAy9/view",
+      "source_page": 145,
+      "offering_status": "unknown",
+      "description_status": "curated_summary"
+    },
+    {
+      "code": "CS4085",
+      "title": "MLOps",
+      "description": "Operational machine learning with reproducible workflows, deployment, model lifecycle management and monitoring.",
+      "credits": null,
+      "credits_status": "Not specified on this catalogue page",
+      "category": "elective",
+      "category_status": "project_curated_unverified_for_batch",
+      "source_core_for": "BS (CS)",
+      "source_elective_for_cs": false,
+      "tags": [
+        "mlops",
+        "machine learning",
+        "devops"
+      ],
+      "prerequisite_groups": [],
+      "prerequisite_raw": "N/A",
+      "prerequisite_status": "catalogue",
+      "source_url": "https://drive.google.com/file/d/1lEyDHS2W41ixoCpD0wQdmYW7yaZeCAy9/view",
+      "source_page": 147,
+      "offering_status": "unknown",
+      "description_status": "curated_summary"
+    },
+    {
+      "code": "CS4086",
+      "title": "Environmental Data Science",
+      "description": "Environmental data analysis using statistical and computational methods to study environmental patterns and changes.",
+      "credits": null,
+      "credits_status": "Not specified on this catalogue page",
+      "category": "elective",
+      "category_status": "project_curated_unverified_for_batch",
+      "source_core_for": "BS (CS)",
+      "source_elective_for_cs": false,
+      "tags": [
+        "geospatial",
+        "data science"
+      ],
+      "prerequisite_groups": [],
+      "prerequisite_raw": "N/A",
+      "prerequisite_status": "catalogue",
+      "source_url": "https://drive.google.com/file/d/1lEyDHS2W41ixoCpD0wQdmYW7yaZeCAy9/view",
+      "source_page": 148,
+      "offering_status": "unknown",
+      "description_status": "curated_summary"
+    },
+    {
+      "code": "CS4087",
+      "title": "Advanced DBMS",
+      "description": "Advanced database systems with distributed architectures, query optimization, indexing, concurrency, NoSQL and analytical storage.",
+      "credits": null,
+      "credits_status": "Not specified on this catalogue page",
+      "category": "elective",
+      "category_status": "project_curated_unverified_for_batch",
+      "source_core_for": "BS (CS)",
+      "source_elective_for_cs": false,
+      "tags": [
+        "databases",
+        "data engineering"
+      ],
+      "prerequisite_groups": [
+        [
+          "CS2005"
+        ],
+        [
+          "CL2005"
+        ]
+      ],
+      "prerequisite_raw": "CS2005, CL2005",
+      "prerequisite_status": "catalogue",
+      "source_url": "https://drive.google.com/file/d/1lEyDHS2W41ixoCpD0wQdmYW7yaZeCAy9/view",
+      "source_page": 149,
+      "offering_status": "unknown",
+      "description_status": "curated_summary"
+    },
+    {
+      "code": "CS4088",
+      "title": "Digital Speech Processing",
+      "description": "Digital speech analysis, acoustic representations, signal processing and computational applications of speech.",
+      "credits": null,
+      "credits_status": "Not specified on this catalogue page",
+      "category": "elective",
+      "category_status": "project_curated_unverified_for_batch",
+      "source_core_for": "BS (CS)",
+      "source_elective_for_cs": false,
+      "tags": [
+        "signal processing",
+        "natural language processing"
+      ],
+      "prerequisite_groups": [],
+      "prerequisite_raw": "N/A",
+      "prerequisite_status": "catalogue",
+      "source_url": "https://drive.google.com/file/d/1lEyDHS2W41ixoCpD0wQdmYW7yaZeCAy9/view",
+      "source_page": 150,
+      "offering_status": "unknown",
+      "description_status": "curated_summary"
+    },
+    {
+      "code": "CS4090",
+      "title": "Machine Learning for Robotics",
+      "description": "Machine learning methods for robotic perception, decision making and intelligent robotic behavior.",
+      "credits": null,
+      "credits_status": "Not specified on this catalogue page",
+      "category": "elective",
+      "category_status": "project_curated_unverified_for_batch",
+      "source_core_for": "BS (CS)",
+      "source_elective_for_cs": false,
+      "tags": [
+        "robotics",
+        "machine learning"
+      ],
+      "prerequisite_groups": [],
+      "prerequisite_raw": "N/A",
+      "prerequisite_status": "catalogue",
+      "source_url": "https://drive.google.com/file/d/1lEyDHS2W41ixoCpD0wQdmYW7yaZeCAy9/view",
+      "source_page": 152,
+      "offering_status": "unknown",
+      "description_status": "curated_summary"
+    },
+    {
+      "code": "CS4102",
+      "title": "Introduction to Knowledge Graphs and Linked Data",
+      "description": "Knowledge representation with graphs and linked data, semantic relationships and structured information integration.",
+      "credits": null,
+      "credits_status": "Not specified on this catalogue page",
+      "category": "elective",
+      "category_status": "project_curated_unverified_for_batch",
+      "source_core_for": "BS (CS)",
+      "source_elective_for_cs": false,
+      "tags": [
+        "knowledge graphs",
+        "information retrieval"
+      ],
+      "prerequisite_groups": [],
+      "prerequisite_raw": "N/A",
+      "prerequisite_status": "catalogue",
+      "source_url": "https://drive.google.com/file/d/1lEyDHS2W41ixoCpD0wQdmYW7yaZeCAy9/view",
+      "source_page": 158,
+      "offering_status": "unknown",
+      "description_status": "curated_summary"
+    },
+    {
+      "code": "CS4104",
+      "title": "Applied Machine Learning",
+      "description": "Practical machine learning using data preparation, model training, evaluation and applying predictive methods.",
+      "credits": null,
+      "credits_status": "Not specified on this catalogue page",
+      "category": "elective",
+      "category_status": "project_curated_unverified_for_batch",
+      "source_core_for": "BS (CS)",
+      "source_elective_for_cs": false,
+      "tags": [
+        "machine learning",
+        "data science"
+      ],
+      "prerequisite_groups": [],
+      "prerequisite_raw": "N/A",
+      "prerequisite_status": "catalogue",
+      "source_url": "https://drive.google.com/file/d/1lEyDHS2W41ixoCpD0wQdmYW7yaZeCAy9/view",
+      "source_page": 160,
+      "offering_status": "unknown",
+      "description_status": "curated_summary"
+    },
+    {
+      "code": "CS4105",
+      "title": "Cloud Security",
+      "description": "Cloud security architecture, identity management, data protection, threats and securing cloud workloads.",
+      "credits": null,
+      "credits_status": "Not specified on this catalogue page",
+      "category": "elective",
+      "category_status": "project_curated_unverified_for_batch",
+      "source_core_for": "N/A",
+      "source_elective_for_cs": true,
+      "tags": [
+        "cybersecurity",
+        "cloud computing"
+      ],
+      "prerequisite_groups": [],
+      "prerequisite_raw": "N/A",
+      "prerequisite_status": "catalogue",
+      "source_url": "https://drive.google.com/file/d/1lEyDHS2W41ixoCpD0wQdmYW7yaZeCAy9/view",
+      "source_page": 161,
+      "offering_status": "unknown",
+      "description_status": "curated_summary"
+    },
+    {
+      "code": "CS4109",
+      "title": "Big Data Analytics",
+      "description": "Big data analytics using Hadoop, MapReduce, Spark, distributed storage and streaming data processing.",
+      "credits": null,
+      "credits_status": "Not specified on this catalogue page",
+      "category": "elective",
+      "category_status": "project_curated_unverified_for_batch",
+      "source_core_for": "BS (CS)",
+      "source_elective_for_cs": false,
+      "tags": [
+        "data engineering",
+        "data science"
+      ],
+      "prerequisite_groups": [
+        [
+          "CS2001"
+        ],
+        [
+          "CL2001"
+        ]
+      ],
+      "prerequisite_raw": "CS2001, CL2001",
+      "prerequisite_status": "catalogue",
+      "source_url": "https://drive.google.com/file/d/1lEyDHS2W41ixoCpD0wQdmYW7yaZeCAy9/view",
+      "source_page": 165,
+      "offering_status": "unknown",
+      "description_status": "curated_summary"
+    },
+    {
+      "code": "CS4112",
+      "title": "Deep Learning",
+      "description": "Deep neural network architectures, training methods and applications of representation learning.",
+      "credits": null,
+      "credits_status": "Not specified on this catalogue page",
+      "category": "elective",
+      "category_status": "project_curated_unverified_for_batch",
+      "source_core_for": "BS (CS)",
+      "source_elective_for_cs": false,
+      "tags": [
+        "deep learning",
+        "machine learning"
+      ],
+      "prerequisite_groups": [],
+      "prerequisite_raw": "N/A",
+      "prerequisite_status": "catalogue",
+      "source_url": "https://drive.google.com/file/d/1lEyDHS2W41ixoCpD0wQdmYW7yaZeCAy9/view",
+      "source_page": 168,
+      "offering_status": "unknown",
+      "description_status": "curated_summary"
+    },
+    {
+      "code": "CS4114",
+      "title": "Internet of Things",
+      "description": "Connected sensors and actuators, IoT architectures, communication protocols, edge computing and device security.",
+      "credits": null,
+      "credits_status": "Not specified on this catalogue page",
+      "category": "elective",
+      "category_status": "project_curated_unverified_for_batch",
+      "source_core_for": "N/A",
+      "source_elective_for_cs": true,
+      "tags": [
+        "internet of things",
+        "networks"
+      ],
+      "prerequisite_groups": [
+        [
+          "CS1002"
+        ],
+        [
+          "CL1002"
+        ]
+      ],
+      "prerequisite_raw": "CS1002, CL1002",
+      "prerequisite_status": "catalogue",
+      "source_url": "https://drive.google.com/file/d/1lEyDHS2W41ixoCpD0wQdmYW7yaZeCAy9/view",
+      "source_page": 170,
+      "offering_status": "unknown",
+      "description_status": "curated_summary"
+    },
+    {
+      "code": "CS4115",
+      "title": "Data Compression",
+      "description": "Data compression principles and coding techniques for efficient representation, storage and transmission of information.",
+      "credits": null,
+      "credits_status": "Not specified on this catalogue page",
+      "category": "elective",
+      "category_status": "project_curated_unverified_for_batch",
+      "source_core_for": "N/A",
+      "source_elective_for_cs": true,
+      "tags": [
+        "signal processing",
+        "algorithms"
+      ],
+      "prerequisite_groups": [],
+      "prerequisite_raw": "N/A",
+      "prerequisite_status": "catalogue",
+      "source_url": "https://drive.google.com/file/d/1lEyDHS2W41ixoCpD0wQdmYW7yaZeCAy9/view",
+      "source_page": 171,
+      "offering_status": "unknown",
+      "description_status": "curated_summary"
+    },
+    {
+      "code": "CS4118",
+      "title": "Software Evolution and Reengineering",
+      "description": "Software evolution, maintenance, legacy system analysis and reengineering for changing requirements.",
+      "credits": null,
+      "credits_status": "Not specified on this catalogue page",
+      "category": "elective",
+      "category_status": "project_curated_unverified_for_batch",
+      "source_core_for": "N/A",
+      "source_elective_for_cs": true,
+      "tags": [
+        "software engineering",
+        "programming"
+      ],
+      "prerequisite_groups": [],
+      "prerequisite_raw": "N/A",
+      "prerequisite_status": "catalogue",
+      "source_url": "https://drive.google.com/file/d/1lEyDHS2W41ixoCpD0wQdmYW7yaZeCAy9/view",
+      "source_page": 172,
+      "offering_status": "unknown",
+      "description_status": "curated_summary"
+    }
+  ]
+}

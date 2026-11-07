@@ -1,0 +1,191 @@
+{
+  "label_origin": "authored_demo",
+  "split": "test",
+  "k": 5,
+  "dataset_version": "4b43a113a2064582",
+  "profiles": 12,
+  "participants": 12,
+  "random_seeds": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "hybrid_alpha": 0.75,
+  "notes": [
+    "Precision divides by requested K, including unfilled slots.",
+    "Recall and NDCG exclude profiles with zero eligible relevant gain from their means.",
+    "All methods use identical prerequisite and completed-course filters.",
+    "Random coverage is a union over 20 seeds, not directly comparable to single-run coverage.",
+    "Intervals resample participants; authored-demo intervals only describe fixture variability.",
+    "In-process latency includes explanation generation; it is not a network load test."
+  ],
+  "summary": [
+    {
+      "method": "tfidf",
+      "profiles": 12,
+      "precision_at_k": {
+        "mean": 0.5333333333333333,
+        "low": 0.4666666666666666,
+        "high": 0.6,
+        "n": 12
+      },
+      "recall_at_k": {
+        "mean": 0.8791666666666668,
+        "low": 0.7916666666666666,
+        "high": 0.9555555555555556,
+        "n": 12
+      },
+      "ndcg_at_k": {
+        "mean": 0.8973657804602607,
+        "low": 0.8562089609385135,
+        "high": 0.9329373093162764,
+        "n": 12
+      },
+      "violations": 0,
+      "catalogue_coverage": 0.7592592592592593,
+      "latency_p95_ms": 19.95115
+    },
+    {
+      "method": "hybrid",
+      "profiles": 12,
+      "precision_at_k": {
+        "mean": 0.5499999999999999,
+        "low": 0.46666666666666673,
+        "high": 0.6333333333333333,
+        "n": 12
+      },
+      "recall_at_k": {
+        "mean": 0.9,
+        "low": 0.8111111111111112,
+        "high": 0.9722222222222222,
+        "n": 12
+      },
+      "ndcg_at_k": {
+        "mean": 0.9223229537466368,
+        "low": 0.8847859495139544,
+        "high": 0.9560343775968342,
+        "n": 12
+      },
+      "violations": 0,
+      "catalogue_coverage": 0.7962962962962963,
+      "latency_p95_ms": 21.275399999999994
+    },
+    {
+      "method": "keyword",
+      "profiles": 12,
+      "precision_at_k": {
+        "mean": 0.45,
+        "low": 0.38333333333333336,
+        "high": 0.5166666666666667,
+        "n": 12
+      },
+      "recall_at_k": {
+        "mean": 0.7513888888888888,
+        "low": 0.638888888888889,
+        "high": 0.8680555555555554,
+        "n": 12
+      },
+      "ndcg_at_k": {
+        "mean": 0.8637582535113859,
+        "low": 0.8112710400210184,
+        "high": 0.9113528958325372,
+        "n": 12
+      },
+      "violations": 0,
+      "catalogue_coverage": 0.6851851851851852,
+      "latency_p95_ms": 14.032349999999997
+    },
+    {
+      "method": "random",
+      "profiles": 12,
+      "precision_at_k": {
+        "mean": 0.06,
+        "low": 0.043333333333333335,
+        "high": 0.07666666666666667,
+        "n": 12
+      },
+      "recall_at_k": {
+        "mean": 0.09569444444444446,
+        "low": 0.07346527777777778,
+        "high": 0.11805555555555554,
+        "n": 12
+      },
+      "ndcg_at_k": {
+        "mean": 0.07672623655466022,
+        "low": 0.059235534356753404,
+        "high": 0.09365705718917194,
+        "n": 12
+      },
+      "violations": 0,
+      "catalogue_coverage": 0.8888888888888888,
+      "latency_p95_ms": 37.02984999999998
+    },
+    {
+      "method": "text_only",
+      "profiles": 12,
+      "precision_at_k": {
+        "mean": 0.48333333333333334,
+        "low": 0.38333333333333336,
+        "high": 0.5833333333333333,
+        "n": 12
+      },
+      "recall_at_k": {
+        "mean": 0.7958333333333334,
+        "low": 0.6527777777777778,
+        "high": 0.923611111111111,
+        "n": 12
+      },
+      "ndcg_at_k": {
+        "mean": 0.834285385985185,
+        "low": 0.733137763189947,
+        "high": 0.9219459460854786,
+        "n": 12
+      },
+      "violations": 0,
+      "catalogue_coverage": 0.7037037037037037,
+      "latency_p95_ms": 16.0466
+    },
+    {
+      "method": "topics_only",
+      "profiles": 12,
+      "precision_at_k": {
+        "mean": 0.49999999999999994,
+        "low": 0.4166666666666667,
+        "high": 0.5833333333333334,
+        "n": 12
+      },
+      "recall_at_k": {
+        "mean": 0.85,
+        "low": 0.6888888888888888,
+        "high": 0.9722222222222222,
+        "n": 12
+      },
+      "ndcg_at_k": {
+        "mean": 0.8690123790048528,
+        "low": 0.8003970043205239,
+        "high": 0.9198055420409981,
+        "n": 12
+      },
+      "violations": 0,
+      "catalogue_coverage": 0.6851851851851852,
+      "latency_p95_ms": 18.650149999999996
+    }
+  ]
+}
